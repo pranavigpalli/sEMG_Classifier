@@ -1,4 +1,5 @@
-**Model trained with 5 epochs is pickled on model folder**
-- unpickle and evaluate utalizing step 4
-
-**If you want to retrain, simply run all from the start :D**
+**Notes**
+- using Linear SVC from sklearn
+- windows are of size 64
+- 8 features each
+- iter1 runtime is roughly 1 hr
